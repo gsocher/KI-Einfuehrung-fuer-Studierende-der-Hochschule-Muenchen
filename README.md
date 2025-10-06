@@ -64,9 +64,12 @@ Volltext: https://creativecommons.org/licenses/by-nc/4.0/
 
 ## Mitwirkende & Kontakt
 **Koordination und Kursaufbau:** Prof. Dr. Gudrun Socher 
+
 **Videos:** Maximilian Dauner
-**Institution:** Hochschule München – MUC.DAI (Munich Center for Digital Sciences and AI)  
-**Kontakt (Vorschlag):** hellomucdai@hm.edu
+
+**Hochschule München – MUC.DAI (Munich Center for Digital Sciences and AI)**
+
+**Kontakt:** [mucdai.hm.edu](https://mucdai.hm.edu)
 
 ---
 
