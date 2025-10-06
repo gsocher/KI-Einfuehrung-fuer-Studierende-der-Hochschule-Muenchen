@@ -28,4 +28,4 @@ Link zum Video: ["Wie denken Maschinen?"](https://youtu.be/kiJJPQ1lz0A)
 
 Im letzten Video erfährst du, wie neuronale Netze trainiert werden. Am Beispiel handgeschriebener Zahlen oder ganzer Bücher siehst du, wie Daten, Netz und Training zusammenspielen. Du lernst, warum Millionen Beispiele wichtig sind und wie das Netz Schritt für Schritt Muster erkennt.
 
-Link zum Video: ["Wie lernen neuronale Netze"](https://youtu.be/jujU-Q2ZwsE)
+Link zum Video: ["Wie lernen neuronale Netze?"](https://youtu.be/jujU-Q2ZwsE)
